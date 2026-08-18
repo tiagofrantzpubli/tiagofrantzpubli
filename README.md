@@ -7,10 +7,7 @@
   <br><br>
 
   <h2>
-    Olá
-    <img src="https://media.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif"
-         width="38"
-         style="vertical-align: middle;" />
+    Olá 👋
   </h2>
 
   <a href="https://www.publi.com.br">
